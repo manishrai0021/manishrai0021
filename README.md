@@ -26,8 +26,8 @@ Hiking 🏕️ Reading 📚 Photography 📸
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=gotham&textColor=%f5f5f7) ![SunglassesCantDealWithItGIF (2)](https://user-images.githubusercontent.com/94151781/217232669-15c362b9-72a4-4b60-acef-f2d51942f97a.gif)
 
 
-<!--
-Visitors: ![Visitor Count](https://profile-counter.glitch.me/{manishrai0021}/count.svg) -->
+### Visitors
+![Visitor Count](https://profile-counter.glitch.me/{manishrai0021}/count.svg)
 
 <!--
 **manishrai0021/manishrai0021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
