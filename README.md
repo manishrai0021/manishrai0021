@@ -2,7 +2,7 @@
 # Manish .K. Rai
 
 
-## Hi👋, I'm Manish—a Passionate in ↗[![Typing SVG](https://readme-typing-svg.demolab.com?Code&weight=900&size=24&duration=2000&pause=200&color=F0F6FC&width=135&center=true&lines=Learning;Growing;Developing)](https://git.io/typing-svg)↖
+## Hi👋, I'm Manish—a Passionate in ↗[![Typing SVG](https://readme-typing-svg.demolab.com?Code&weight=900&size=24&duration=2000&pause=200&width=135&center=true&lines=Learning;Growing;Developing)](https://git.io/typing-svg)↖
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
