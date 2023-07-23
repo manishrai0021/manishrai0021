@@ -9,6 +9,10 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
+- 🔭 I’m currently working on --> AgroNepal
+- 🌱 I’m currently learning --> React Native
+- 👯 I’m looking to collaborate on --> Any OpenSource
+
 ## Get In Touch 🙌
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ManishKRme)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100009820152155)
@@ -28,8 +32,3 @@ Hiking 🏕️ Reading 📚 Photography 📸
 
 ### Visited
 ![Visitor Count](https://profile-counter.glitch.me/{manishrai0021}/count.svg)
-
-- 🔭 I’m currently working on -> AgroNepal
-- 🌱 I’m currently learning -> React Native
-- 👯 I’m looking to collaborate on -> Any OpenSource
-
